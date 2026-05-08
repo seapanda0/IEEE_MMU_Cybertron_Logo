@@ -9,9 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Displays a bouncing Tiny Tapeout logo on the screen.
+Displays a MMU Cyberton logo on the screen. Our proud robotics team in Multimedia University (MMU)!
 
-![Tiny Tapeout screensaver](screensaver.jpg)
+![Tiny Tapeout screensaver](cybertron.png)
 
 ## How to test
 
