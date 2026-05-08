@@ -11,7 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 Displays a MMU Cyberton logo on the screen. Our proud robotics team in Multimedia University (MMU)!
 
-![Tiny Tapeout screensaver](cybertron.png)
+![Tiny Tapeout screensaver](cybertron.jpg)
 
 ## How to test
 
